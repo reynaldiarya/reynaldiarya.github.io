@@ -15,7 +15,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
-  color: #4d4d4d;
+  color: #fff;
   background: #fff;
 }
 
@@ -308,7 +308,6 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .ra-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
 }
 .ra-bg-dark .ra-heading h2 {
   color: #fff !important;
@@ -532,7 +531,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #FF9000;
+  background-color: #7900c4;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
